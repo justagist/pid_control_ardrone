@@ -1,0 +1,17 @@
+triangle --
+
+point: 1 / 3
+(0.3526263, 1.30429, 0.9971083) 86.3887844655
+reached destination pose!
+errors:- Linear: 0.043562; Angular: 0.099071
+point: 2 / 3
+(1.5324, 1.509872, 1.017454) 30.2153425551
+reached destination pose!
+errors:- Linear: 0.139917; Angular: 0.026598
+point: 3 / 3
+(0.4618173, 0.1953492, 1.671822) 31.39237035
+reached destination pose!
+errors:- Linear: 0.110899; Angular: 0.040181
+point: 1 / 3
+(1.628698, 1.33279, 1.046234) 37.3192182309
+
