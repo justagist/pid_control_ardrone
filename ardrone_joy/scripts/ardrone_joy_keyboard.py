@@ -50,7 +50,6 @@ def main(drone):
     point_array = ()
     orient_array = ()
     no_of_points = 0
-    Controls:
     print 'Return - Take-off/stop autopilot\nSpace - Land/stop autopilot\nW - move front\nS - move back\nA - move left\nD - move right\nLEFT - Turn left\nRIGHT - Turn right\nC - capture current position and store in memory\nV - go to capture point(s)\nX - clear all captured points\nL - print list of captured points\nM - Stop navigation and clear all captured points\nKeypad PLUS - increase keyboard control speed\nKeypad MINUS - decrease keyboard control speed\nKeypad 1 - plot a circular path\nKeypad 2 - plot a figure-8 path\nTAB - change navigation method'
     print '>>Manual Controller Started\n\tManual Control Speed:',speed,'\n\tAutopilot Mode:',mode
     while running:
